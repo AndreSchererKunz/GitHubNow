@@ -8,9 +8,6 @@ Front-End (só falta corrigir algumas ligações com o Back-End)
 Back-End (só falta corrigir algumas ligações com o Front-End)
 
 EM PROGRESSO:
-Nome e sobrenome retornando string vazia
-Ícone do perfil alterado
-Não é possível editar o perfil
 
 PARA SER FEITO:
 Publicação no PythonAnywhere
