@@ -4,15 +4,17 @@ Arquivo criado para não deixar o GitHub parado
 PROJETO FINAL XPLACE (Uma rede de microblog inspirada no Twitter.)
 
 CONCLUÍDO:
-Front-End (falta trocar as urls)
-Back-End (falta trocar as urls)
+Front-End
+Back-End (explicação)
 Publicação no Render
-Publicação no GitHub (por enquanto só o back)
+Publicação no GitHub
+Publicação na Vercel
 
 EM PROGRESSO:
+Símbolo notificação
+@user
 
 PARA SER FEITO:
-Publicação na Vercel
 Entrega do PROJETO
 Revisões?
 Curso finalizado?!
