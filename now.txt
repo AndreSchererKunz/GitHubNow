@@ -5,14 +5,13 @@ PROJETO FINAL XPLACE (Uma rede de microblog inspirada no Twitter.)
 
 CONCLUÍDO:
 Front-End
-Back-End (explicação)
+Back-End
 Publicação no Render
 Publicação no GitHub
 Publicação na Vercel
 
 EM PROGRESSO:
-Símbolo notificação
-@user
+Followers e following inacabados
 
 PARA SER FEITO:
 Entrega do PROJETO
