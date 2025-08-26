@@ -9,11 +9,10 @@ Back-End
 Publicação no Render
 Publicação no GitHub
 Publicação na Vercel
+Projeto final avaliado
 
 EM PROGRESSO:
-Revisão geral do código antes de fazer a entrega (vai ficar pra amanhã)
+Tarefa Bônus
 
 PARA SER FEITO:
-Entrega do PROJETO
-Revisões?
 Curso finalizado?!
