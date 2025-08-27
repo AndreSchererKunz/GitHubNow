@@ -1,18 +1,3 @@
 Arquivo criado para não deixar o GitHub parado 
-(eu deveria ter feito pelo menos um repositório privado para contar os commits, na próxima eu faço)
 
-PROJETO FINAL XPLACE (Uma rede de microblog inspirada no Twitter.)
-
-CONCLUÍDO:
-Front-End
-Back-End
-Publicação no Render
-Publicação no GitHub
-Publicação na Vercel
-Projeto final avaliado
-
-EM PROGRESSO:
-Tarefa Bônus
-
-PARA SER FEITO:
-Curso finalizado?!
+CURSO FINALIZADO!
