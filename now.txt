@@ -1,6 +1,10 @@
-Arquivo criado para não deixar o GitHub parado 
+Arquivo criado para não deixar o GitHub parado
 
-27/10/25 - Módulo 1 ENAP Libras
+Histórico de estudos
+
+ENAP - Introdução à Libras {
+
+Módulo 1 - 27/10/25
 1. Surdez e sociedade
 1.1. Causas da surdez
 1.2. Descoberta da surdez
@@ -20,3 +24,14 @@ Arquivo criado para não deixar o GitHub parado
 3.3. Alfabeto manual e pronomes pessoais
 4. Finalizando o módulo
 Exercício avaliativo Módulo 1 - Concluído (Pontuação 5/5 questões - Nota 10)
+
+Módulo 2 - 27/10/25
+1. Expressões faciais
+1.1. Expressões faciais - Cont.
+1.2. Expressões faciais - Cont.
+1.3. Praticando expressões faciais
+2. Família
+3. Finalizando o módulo
+Exercício avaliativo Módulo 2 - Concluído (Pontuação 9/9 questões - Nota 20)
+
+}
