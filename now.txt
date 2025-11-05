@@ -68,3 +68,7 @@ Exercício avaliativo Módulo 6 - Concluído (Pontuação 10/10 questões - Nota
 Nota final de aproveitamento do curso 100/100
 
 }
+
+05/11/25
+Manutenção de hardware e software
+Instalação e configuração (dispositivo de segurança)
