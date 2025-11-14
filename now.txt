@@ -89,5 +89,12 @@ Questão 4
 Questão 5
 Questão 6
 
+(
+??/11/25
+LibrasLab M1-Saudações, M2-Primeiros Sinais
+13/11/25
+LibrasLab M3.1,2,3-Números
+)
+
 }
 
