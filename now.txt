@@ -96,5 +96,9 @@ LibrasLab M1-Saudações, M2-Primeiros Sinais
 LibrasLab M3.1,2,3-Números
 )
 
-}
+17/11/25
+1.5-6-7-8-9
+Questão 7 a 18
+Módulo 1 - Concluído - Pontuação do módulo 17/18 - Nota atual 23,6/25
 
+}
